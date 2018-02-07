@@ -11,6 +11,8 @@ http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearni
 http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial (UFLDL Tutorial)  
 http://cs224d.stanford.edu/syllabus.html (CS224d: Deep Learning for Natural Language Processing)  
 https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/ (Neural Networks for Machine Learning_COUSERA) 
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/  (Oxford -Nando de Freitas)  
+
 
 
 
